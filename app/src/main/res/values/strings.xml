@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">PrecoMuitoJusto</string>
+    <string name="text_nomeProduto">Nome do Produto</string>
+    <string name="hint_nomeProduto">Digite o nome do produto</string>
+    <string name="text_valor">Valor</string>
+    <string name="hint_valorProduto">Digite o valor do produto</string>
+    <string name="text_quantidadeParcelas">Qtd. Parc.</string>
+    <string name="hint_quantidadeParcelas">Qtd. Parc.</string>
+    <string name="text_juros">Juros (%)</string>
+    <string name="hint_juros" translatable="false">0</string>
+    <string name="text_calcular">Calcular</string>
+    <string name="text_limparDados">Limpar Dados</string>
+    <string name="text_produto">"Produto: "</string>
+    <string name="text_valorInicial">"Valor Inicial: "</string>
+    <string name="text_valorParcelas">"Valor Parcelas: "</string>
+    <string name="text_valorTotal">"Valor Total: "</string>
+    <string name="text_valorTotalJuros">"Total de Juros: "</string>
+    <string name="required_nomeProduto">Nome do produto é um campo obrigatório</string>
+    <string name="required_valorProduto">Valor do produto é um campo obrigatório</string>
+    <string name="required_quantidadeParcelas">A quantidade de parcelas é um campo obrigatório</string>
+    <string name="required_juros">O campo de % de juros é um campo obrigatório</string>
+    <string name="text_comEntrada">Com Entrada</string>
+</resources>

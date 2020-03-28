@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_nomeProduto">Product\'s name</string>
+    <string name="hint_nomeProduto">Enter product name</string>
+    <string name="text_valor">Value</string>
+    <string name="hint_valorProduto">Enter the product value</string>
+    <string name="text_quantidadeParcelas">N . Inst..</string>
+    <string name="hint_quantidadeParcelas">N . Inst..</string>
+    <string name="text_juros">Interest (%)</string>
+    <string name="text_calcular">Calculate</string>
+    <string name="text_limparDados">Clear Data</string>
+    <string name="text_produto">Product:</string>
+    <string name="text_valorInicial">Initial value:</string>
+    <string name="text_valorParcelas">Amount Plots:</string>
+    <string name="text_valorTotal">Amount:</string>
+    <string name="text_valorTotalJuros">Total Interest:</string>
+    <string name="required_nomeProduto">Product name is a required field</string>
+    <string name="required_valorProduto">Product value is a required field</string>
+    <string name="required_quantidadeParcelas">Plot quantity is a required field</string>
+    <string name="required_juros">The interest% field is a required field</string>
+    <string name="text_comEntrada">With Input</string>
+</resources>
